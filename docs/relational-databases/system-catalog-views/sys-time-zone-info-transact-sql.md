@@ -28,7 +28,7 @@ ms.author: "rickbyh"
 manager: "jhubbard"
 ---
 # sys.time_zone_info (Transact-SQL)
-[!INCLUDE[tsql-appliesto-ss2008-asdb-xxxx-xxx_md](../../includes/tsql-appliesto-ss2008-asdb-xxxx-xxx-md.md)]
+[!INCLUDE[tsql-appliesto-ss2016-asdb-xxxx-xxx_md](../../includes/tsql-appliesto-ss2016-asdb-xxxx-xxx-md.md)]
 
   Returns information about supported time zones. All time zones installed on the computer are stored in the following registry hive:  
 **KEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones**.  
